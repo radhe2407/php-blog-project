@@ -7,3 +7,9 @@ php-blog-project/
 │── config/
 │── assets/
 │── README.md
+
+
+## Features Completed
+- CRUD Operations (Create, Read, Update, Delete)
+- Database Integration
+- Timestamp Support
