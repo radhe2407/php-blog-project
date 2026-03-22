@@ -1,25 +1,21 @@
-# php-blog-project
-php-blog-project/
-php-blog-project/
-│── index.php
-│── config.php
-│── test.php
-│── add_post.php
-│── view_posts.php
-│── edit_post.php
-│── delete_post.php
-│── README.md
+## Features
+- User Registration and Login
+- Session-based Authentication
+- Create, Read, Update, Delete Posts
+- Search Posts
+- Pagination
+- Bootstrap User Interface
 
+## Technologies Used
+- PHP
+- MySQL
+- HTML
+- Bootstrap
+- XAMPP
 
-## Features Completed
-- CRUD Operations (Create, Read, Update, Delete)
-- Database Integration
-- Timestamp Support
-
-
-## 🚀 Features
-- User Registration & Login
-- Session Authentication
-- CRUD Operations for Blog Posts
-- Bootstrap UI Design
-- MySQL Database Integration
+## How to Run
+1. Start Apache and MySQL in XAMPP
+2. Open phpMyAdmin and create the `blog` database
+3. Import or create the `users` and `posts` tables
+4. Place the project folder inside `htdocs`
+5. Open `http://localhost/php-blog-project`
